@@ -11,6 +11,11 @@ body {
   margin: 0;
   background: linear-gradient(to bottom right, orangered, orange);
   background-attachment: fixed;
+  background-image: url(../images/nasa-n463SoeSiVY-unsplash.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  outline: none;
 }
 
 a {
