@@ -18,6 +18,10 @@ body {
   outline: none;
 }
 
+.calc{
+    color: red;
+    margin-bottom: 300px;
+}
 a {
   text-decoration: none;
 }
